@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../LabsComplete/Storage.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../LabsComplete/AppIcons.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
